@@ -795,7 +795,7 @@ video{
     }
 }
 @supports (-webkit-touch-callout: none){
-    .parallax, .strip{
+    .parallax, #strip{
         background-attachment: scroll;
     }
 }
